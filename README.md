@@ -1,4 +1,4 @@
-### A Game Developer's Vision
+### [A Game Developer's Vision](https://velog.io/@oak_cassia/A-Game-Developers-Vision)
 `배경에 상관없이 공감대를 형성하며 즐길 수 있는 명품 게임을 만든다.`
 > 명품 게임은
 >  - 유저 관점의 재미를 기반해 강력한 IP로 확장할 수 있으며
