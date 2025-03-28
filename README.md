@@ -41,6 +41,7 @@
   - 클라우드 인프라
   - 분산 시스템
   - 확률 모델링
+  - 실시간 서버 환경
 
 <!--
 **oak-cassia/oak-cassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
