@@ -36,12 +36,12 @@
       - 불필요한 연산 제거
     -  통계 작업 및 운영 업무 효율화
 - 지속적인 학습을 통한 문제해결 능력 강화
+  - 실시간 서버 환경
   - MSA
   - 컨테이너 및 오케스트레이션
   - 클라우드 인프라
   - 분산 시스템
   - 확률 모델링
-  - 실시간 서버 환경
 
 <!--
 **oak-cassia/oak-cassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
