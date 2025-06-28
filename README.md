@@ -43,7 +43,7 @@
   - 클라우드 인프라
   - 분산 시스템
   - 확률 모델링
-  - 문제를 정의하고 해결하기 위한 기술을 학습하는 것을 우선
+  > 무엇보다 실질적인 문제를 정의하고 해결하기 위한 기술을 학습하는 것을 우선한다.
 
 <!--
 **oak-cassia/oak-cassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
