@@ -1,3 +1,54 @@
+<p align="right">
+  <b>English</b> · <a href="#한국어">한국어</a>
+</p>
+
+### A Game Developer's Vision
+`Build masterpiece games that resonate with players regardless of their background.`
+> A masterpiece game
+>  - extends into a strong IP grounded in player-centric fun, and
+>  - builds a continuous relationship of trust with its players.
+
+### Goal
+`Grow into a key contributor for stable global services.`
+- Build stable servers so that players around the world can enjoy the game freely, whenever they want.
+  - Stability is a precondition for fun and trust.
+  - High availability
+  - Low latency
+  - Fast recovery from incidents
+
+> What does "key contributor" mean?
+>  - Grows with the people around them as they grow themselves
+>  - Holds capabilities that are hard or impossible to replace
+>  - Achieves more through collaboration than they could alone
+
+### How
+- Hands-on experience with global services
+  - Understand the backend architecture of a live game in service.
+  - Grasp the intent behind game design and validate it from the player's perspective.
+  - Empathize with the audience of communication and own the message through to delivery.
+  - Solve problems together with teammates by creating synergy.
+  - Streamline work so limited resources flow into the problems that matter.
+- Experience across the full game lifecycle, from launch to late stage
+  - Understand the tasks, likely issues, and resolutions at each stage.
+  - Late stage: post-stabilization, content has accumulated, user base is slowly declining, systems are aging, and data has piled up.
+    - Goal: deliver fresh, sustained fun and add features while preserving existing systems.
+    - Content reworks and expansions
+    - Server refactoring and performance improvements
+      - Easing data accumulation
+      - Query optimization
+      - Removing unnecessary computation
+    - Analytics work and operational efficiency
+- Strengthen problem-solving through continuous learning
+  - Prioritize learning the technology needed to define and solve real problems.
+> My learning should lead to the team's growth.
+
+---
+
+<h3 id="한국어">한국어</h3>
+
+<details>
+<summary>한국어로 보기</summary>
+
 ### A Game Developer's Vision
 `배경에 상관없이 공감대를 형성하며 즐길 수 있는 명품 게임을 만든다.`
 > 명품 게임은
@@ -19,7 +70,7 @@
 
 ### How
 - 글로벌 서비스의 실질적인 경험
-  - 서비스 중인 게임의 백엔드 구조를 파악한다. 
+  - 서비스 중인 게임의 백엔드 구조를 파악한다.
   - 기획의 목적과 의도를 파악하여 유저 관점에서 확인한다.
   - 의사소통 대상에 공감하며 전달의 완료까지 책임진다.
   - 팀원들과 시너지를 내어 문제를 함께 해결한다.
@@ -38,15 +89,17 @@
   - 실질적인 문제를 정의하고 해결하기 위한 기술 학습 우선
 > 나의 학습을 팀의 성장으로 이끌어야 한다.
 
+</details>
+
 <!--
 **oak-cassia/oak-cassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
