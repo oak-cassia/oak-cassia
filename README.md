@@ -3,29 +3,29 @@
 </p>
 
 ### A Game Developer's Vision
-`Build masterpiece games that resonate with players regardless of their background.`
+`Build masterpiece games where players from any background connect and enjoy together.`
 > A masterpiece game
 >  - extends into a strong IP grounded in player-centric fun, and
->  - builds a continuous relationship of trust with its players.
+>  - builds ongoing trust with its players.
 
 ### Goal
-`Grow into a key contributor for stable global services.`
+`Grow into the kind of talent stable global services rely on.`
 - Build stable servers so that players around the world can enjoy the game freely, whenever they want.
   - Stability is a precondition for fun and trust.
   - High availability
   - Low latency
   - Fast recovery from incidents
 
-> What does "key contributor" mean?
->  - Grows with the people around them as they grow themselves
+> What does "key talent" mean?
+>  - Lifts those around them through their own growth
 >  - Holds capabilities that are hard or impossible to replace
 >  - Achieves more through collaboration than they could alone
 
 ### How
 - Hands-on experience with global services
-  - Understand the backend architecture of a live game in service.
-  - Grasp the intent behind game design and validate it from the player's perspective.
-  - Empathize with the audience of communication and own the message through to delivery.
+  - Understand the backend architecture of a live game.
+  - Grasp the purpose and intent of the design, and verify them from the player's perspective.
+  - Empathize with the audience and own the message through to delivery.
   - Solve problems together with teammates by creating synergy.
   - Streamline work so limited resources flow into the problems that matter.
 - Experience across the full game lifecycle, from launch to late stage
@@ -34,13 +34,13 @@
     - Goal: deliver fresh, sustained fun and add features while preserving existing systems.
     - Content reworks and expansions
     - Server refactoring and performance improvements
-      - Easing data accumulation
+      - Mitigating data accumulation
       - Query optimization
       - Removing unnecessary computation
-    - Analytics work and operational efficiency
+    - Streamlining game development and live operations
 - Strengthen problem-solving through continuous learning
   - Prioritize learning the technology needed to define and solve real problems.
-> My learning should lead to the team's growth.
+> My learning should drive the team's growth.
 
 ---
 
@@ -84,7 +84,7 @@
       - 데이터 축적 완화
       - 쿼리 최적화
       - 불필요한 연산 제거
-    -  통계 작업 및 운영 업무 효율화
+    - 게임 개발 및 서비스 운영 효율화
 - 지속적인 학습을 통한 문제해결 능력 강화
   - 실질적인 문제를 정의하고 해결하기 위한 기술 학습 우선
 > 나의 학습을 팀의 성장으로 이끌어야 한다.
