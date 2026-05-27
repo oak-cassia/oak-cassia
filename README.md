@@ -1,4 +1,4 @@
-### [A Game Developer's Vision](https://velog.io/@oak_cassia/A-Game-Developers-Vision)
+### A Game Developer's Vision
 `배경에 상관없이 공감대를 형성하며 즐길 수 있는 명품 게임을 만든다.`
 > 명품 게임은
 >  - 유저 관점의 재미를 기반해 강력한 IP로 확장할 수 있으며
@@ -35,14 +35,8 @@
       - 불필요한 연산 제거
     -  통계 작업 및 운영 업무 효율화
 - 지속적인 학습을 통한 문제해결 능력 강화
-  - AI Agent
-  - 실시간 서버 환경
-  - MSA
-  - 컨테이너 및 오케스트레이션
-  - 클라우드 인프라
-  - 분산 시스템
-  - 확률 모델링
-  > 무엇보다 실질적인 문제를 정의하고 해결하기 위한 기술을 학습하는 것을 우선한다. 나의 학습을 팀의 성장으로 이끌어야 한다.
+  - 실질적인 문제를 정의하고 해결하기 위한 기술 학습 우선
+> 나의 학습을 팀의 성장으로 이끌어야 한다.
 
 <!--
 **oak-cassia/oak-cassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
